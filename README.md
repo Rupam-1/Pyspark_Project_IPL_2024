@@ -23,7 +23,7 @@ A comprehensive data engineering project analyzing Indian Premier League (IPL) 2
 
 This project demonstrates practical data engineering and analytics capabilities by analyzing comprehensive IPL 2024 tournament data. The project involves:
 
-- **Data Ingestion**: Loading IPL 2024 cricket data from multiple sources
+- **Data Ingestion**: Loading IPL 2024 cricket data from official IPL source (https://www.iplt20.com/match/2024/1354)
 - **Data Transformation**: Using PySpark for large-scale data processing and SQL for complex queries
 - **Data Modeling**: Creating normalized database schema with proper relationships
 - **Analysis**: Generating insights about match performance, batting statistics, and bowling performance
